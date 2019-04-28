@@ -1,4 +1,4 @@
-var cmd = require('node-cmd');
+var cwd = require('node-cmd');
 var path, node_ssh, ssh, fs;
 fs = require('fs');
 path = require('path');
